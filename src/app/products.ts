@@ -1,16 +1,16 @@
 export const products = [
   {
-    name: 'Phone XL',
+    name: 'Telefon XL',
     price: 799,
-    description: 'A large phone with one of the best screens'
+    description: 'Duzy telefon jeden z najlepszych'
   },
   {
-    name: 'Phone Mini',
+    name: 'Telefon Mini',
     price: 699,
-    description: 'A great phone with one of the best cameras'
+    description: 'Wspanialy telefon z najlepszym aparatem'
   },
   {
-    name: 'Phone Standard',
+    name: 'Telefon Standard',
     price: 299,
     description: ''
   }
